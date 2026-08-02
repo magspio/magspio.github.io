@@ -1,0 +1,16 @@
+body {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: #202020;
+}
+
+a {
+  color: #202020 !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #D317AE !important;
+}
